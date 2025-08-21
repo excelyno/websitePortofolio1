@@ -1,38 +1,46 @@
-# My Website Project
+# My Website Portfolio
 
 > A heartfelt thank-you to the creator of the tutorial that made this possible.
 
 ---
 
-## 🙏 Acknowledgement
+## ​ Acknowledgement
 
-This project was **inspired by** [Creator’s Name or Channel] and their excellent tutorial on YouTube. Thank you for sharing your knowledge and helping developers like me grow.
+This project was **inspired by** an excellent tutorial on YouTube. Thank you to the creator for sharing such clear and informative guidance.
 
-📺 **Watch the original tutorial here**:  
+📺 **Watch the original tutorial**:  
 [YouTube Video](https://youtu.be/zJE-ze4TfXc?si=uFLaQoaeyu_dISEg)
 
 ---
 
-## 🌐 Live Demo (for Visual Inspiration)
+## ​ Visual Inspiration (Vercel Template Highlight)
 
-To provide some visual flair and UI inspiration, here’s a beautifully designed Vercel app worth exploring:
+To enhance visual appeal, here's a beautiful design template from Vercel that could inspire your README or project presentation:
 
-### 🔥 [Image Gallery Starter on Vercel](https://image-gallery-starter.vercel.app)
+###  Once UI Design Starter (by Vercel)  
+A refined, component-based UI kit for Next.js, perfect for showcasing clean layouts and polished visuals.
 
-![Screenshot](https://repository-images.githubusercontent.com/372786085/80c4e100-a9b5-11eb-8460-ec800f5f0f28)
-
-> A stunning, minimalist image gallery template built with **Next.js** and **Cloudinary**.
-
-📂 Source: [vercel/nextjs-image-gallery](https://github.com/vercel/nextjs-image-gallery)
+![Once UI Design Preview](https://assets.vercel.com/image/upload/front/branding/social-card/once-ui-design.png)
 
 ---
 
-## 🛠️ Getting Started
+##  How to Explore This Template
 
-To run this project locally:
+1. Visit the **Vercel Templates** gallery and search for "Once UI Design Starter" to view and deploy it.  
+2. Alternatively, clone the GitHub repo to explore its structure and design patterns.  
+3. Use it as inspiration for:
+   - README headers and visuals
+   - Component layout styling
+   - Color schemes and typography
+
+---
+
+##  Project Setup & Deployment
+
+To work with this project and view it live:
 
 ```bash
-git clone your-repo-url
-cd your-project
+git clone https://github.com/excelyno/websitePortofolio1.git
+cd websitePortofolio1
 npm install
 npm run dev
