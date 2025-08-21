@@ -27,14 +27,6 @@ This is a fully responsive and lightweight **personal portfolio website** that i
 
 ---
 
-## 📸 Preview
-
-> *(You can replace the image link below with your own hosted screenshot, e.g., from Imgur, GitHub CDN, or another image CDN)*
-
-![Website Screenshot](https://i.imgur.com/kFvZYSo.png)
-
----
-
 ## 🔧 Technologies Used
 
 - HTML5
