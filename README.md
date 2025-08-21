@@ -47,3 +47,12 @@ websitePortofolio1/
 ├── script.js            # Optional JavaScript functions
 ├── assets/              # Images and other assets
 └── README.md            # This file
+
+🙏 Acknowledgements
+
+I would like to extend my deepest gratitude to the creator of this amazing tutorial:
+
+🎥 Watch the original YouTube tutorial here:
+https://youtu.be/zJE-ze4TfXc?si=uFLaQoaeyu_dISEg
+
+Thanks to the creator for providing clear instructions, well-structured design, and inspiring many of us to build and share our portfolios confidently.
