@@ -47,7 +47,7 @@ websitePortofolio1/
 ├── script.js            # Optional JavaScript functions
 ├── assets/              # Images and other assets
 └── README.md            # This file
-
+```
 ---
 
 ## 🙏 Acknowledgements
